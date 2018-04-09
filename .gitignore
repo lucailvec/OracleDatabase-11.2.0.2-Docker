@@ -1,0 +1,4 @@
+static_file/*
+!static_file/.gitkeep
+*.rpm.zip
+!.gitignore
